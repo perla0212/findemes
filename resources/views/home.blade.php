@@ -72,7 +72,7 @@
             ¡Te invitamos a viajar a Mazatlan!
           </h1>
           <p class="leading-normal text-2xl mb-8">
-           ¡¡Descubre la magia y tradiciones de Mazatlán. Un viaje lingüístico por la joya del Pacífico Prefecto!!
+           ¡¡Descubre la magia y tradiciones de Mazatlán. Un viaje lingüístico por la joya del Pacífico Prefecto !
           </p>
           
         </div>
@@ -138,7 +138,7 @@
                 <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Linkedin</a>
               </li>
               <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-                <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Twitter</a>
+                <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Whatsapp</a>
               </li>
             </ul>
           </div>
