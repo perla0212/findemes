@@ -110,7 +110,7 @@
                 <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">FAQ</a>
               </li>
               <li class="mt-2 inline-block mr-2 md:block md:mr-0">
-                <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Help</a>
+                <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Ayuda</a>
               </li>
               <li class="mt-2 inline-block mr-2 md:block md:mr-0">
                 <a href="#" class="no-underline hover:underline text-gray-800 hover:text-pink-500">Support</a>
